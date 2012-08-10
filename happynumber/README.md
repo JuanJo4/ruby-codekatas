@@ -4,7 +4,7 @@ Un número feliz es un número entero positivo al que se van sumando los cuadrad
 
 ### Por ejemplo:
 
-	19:
+	Para el número 19
 		9^2 + 1^2 = 82
 		8^2 + 2^2 = 68
 		6^2 + 8^2 = 100
@@ -17,4 +17,5 @@ En la [wikipedia](http://es.wikipedia.org/wiki/N%C3%BAmero_feliz) tenéis una li
 ### Fuente
 
 [Solveet](http://www.solveet.com/exercises/El-numero-feliz/73)
+
 User: [juanj-gonzalezp](http://www.solveet.com/juanj-gonzalezp)
