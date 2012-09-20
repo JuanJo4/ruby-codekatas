@@ -1,4 +1,4 @@
 ruby-codekatas
 ==============
 
-CodeKatas for practice ruby
+Learning ruby
